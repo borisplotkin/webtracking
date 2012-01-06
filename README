@@ -1,0 +1,5 @@
+Small php project to track incoming users by setting cookies from the landing page.
+Place <?php include('wsdl/func.php'); tracking(); ?> at the top of each page you want to track.
+Once the user contacts using a contact form the database will have the info needed to analyze the method similar to google analytics (direct, referral or search engine includes both organic and adwords)
+
+Contact me if you'd like to contribute or have any questions.
